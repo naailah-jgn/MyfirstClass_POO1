@@ -61,7 +61,7 @@ class Cars {
        return $this->nbSeats;
     }
 
-    public function getEnergy(): int 
+    public function getEnergy(): string
     {
         return $this->energy;
     }
